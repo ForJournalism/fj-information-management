@@ -35,6 +35,9 @@ Tracking changes
 ----------------
 
 * What constitutes a change in version?
+    * Data cleanup
+    * Derived values
+    * Processing: Excel, Refine, scripts, etc.
 * The timestamp: atomic unit of change
 * Sometimes it makes sense to record that things don't change too
 * Files and folders (a.k.a naming things)
