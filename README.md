@@ -10,7 +10,7 @@ Introducing data
         * Text (chars, strings)
         * Boolean
         * Enumerations
-        * Binary blobs (images)
+        * Binary blobs (images, audio)
     * Complex types
         * Lists (1D)
         * Tables (2D)
@@ -62,6 +62,7 @@ Data pipelines
         * Curl
         * APIs
         * Scrapers
+        * PDF / OCR
     * Documenting provenance
 * Processing
     * Scripts
@@ -69,7 +70,11 @@ Data pipelines
         * csvkit
         * Python
     * Documenting order of operations
+    * Documenting your code
     * Naming things; revisited
+* Testing
+    * Test assertions about the data
+    * Test novel derived facts
 * Shims, adapters and glue code
 * Crons
 
