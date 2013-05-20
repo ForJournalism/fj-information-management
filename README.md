@@ -73,6 +73,7 @@ Data pipelines
         * Bash scripts
         * csvkit
         * Python
+        * R
     * Documenting order of operations
     * Documenting your code
     * Naming things; revisited
