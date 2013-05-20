@@ -28,6 +28,7 @@ Storing data
 * Tables: Spreadsheets (CSV, Excel, Google Docs)
 * Relationships: SQL Databases (MySQL, PostgreSQL, sqlite)
 * Objects: Flat-files (JSON, YAML) or Object Databases (MongoDB, CouchDB)
+* Search-oriented: PANDA
 
 
 Tracking changes
