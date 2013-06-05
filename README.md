@@ -148,6 +148,7 @@ How we use data processing to answer questions about our data.
     * csvkit
     * Python
     * SQL
+	* R
 * Documenting order of operations
 * Documenting your code
 * Naming things, revisited
